@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+}
+
+.container {
+    width: 300px;
+    margin: 50px auto;
+}
+
+input {
+    display: block;
+    margin: 10px 0;
+}
+
+button {
+    margin-top: 10px;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-weight: bold;
+}
